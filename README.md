@@ -7,20 +7,19 @@
 ## I am a Java, C++, C#, Rust, Python and Mysql developer
 ### 我是一名专注Java,C++,C#,Rust,Python和Mysql的开发者
 
-- 🔭 I'm a developer of anti-cheat for many servers
+- 🔭 I'm a developer of anti-cheat for many Minecraft Servers
   
-  🔭 我是很多服务器反作弊的开发者
+  🔭 我是很多我的世界服务器反作弊的开发者
 - 🌱 I’m currently learning more knowledge about the language I have learned
 
   🌱 我还在学习更多关于我所学语言的知识
-- 👯 I want to collaborate with more technical personnel and server owners
+- 😊 
+  
+- 🤔 I want to collaborate with more technical personnel and server owners
 
-
-  🤔 我还是不太了解Go，为了更好的开发我希望有人能在这方面帮助我
+  🤔我还是不太了解Go，为了更好的开发我希望有人能在这方面帮助我
 
 ### 💻 Languages and Tools 💻:
-### 💻 编程语言和工具 💻：
-
 
 <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
@@ -32,14 +31,10 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
 ### 💬 Let's Connect 💬:
-### 💬 联系方式 💬：
 - 📪 Drop me an email at Mantra126zhe@Gmail.com
-
-  📪 给我发邮件到 Mantra126zhe@Gmail.com
-  
 - 🐧 QQ:3458969550
 - Bilibili: [不知名CSPhD](https://space.bilibili.com/516196372)
 - Discord: Rainchen233
 
-### 🧑‍🤝‍🧑 自2024/8/12以来的访客数 🧑‍🤝‍🧑
+### 🧑‍🤝‍🧑 自2015/5/11以来的访客数 🧑‍🤝‍🧑
 <a href="https://info.flagcounter.com/mWjN"><img src="https://s11.flagcounter.com/mini/mWjN/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>

@@ -12,9 +12,7 @@
   🔭 我是很多我的世界服务器反作弊的开发者
 - 🌱 I’m currently learning more knowledge about the language I have learned
 
-  🌱 我还在学习更多关于我所学语言的知识
-- 😊 
-  
+  🌱 我还在学习更多关于我所学语言的知识 
 - 🤔 I want to collaborate with more technical personnel and server owners
 
   🤔我还是不太了解Go，为了更好的开发我希望有人能在这方面帮助我

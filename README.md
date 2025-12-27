@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning more knowledge about the language I have learned
 
   🌱 我还在学习更多关于我所学语言的知识 
-- 🤔 I want to collaborate with more technical personnel and server owners
+- 🤔 I'm not a very good communicator, I'm very intimidated, but when I meet someone who's like-minded, I'm very vocal.
 
   🤔我还是不太了解Go，为了更好的开发我希望有人能在这方面帮助我
 

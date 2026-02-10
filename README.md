@@ -1,10 +1,9 @@
 ## Hi there 👋 I'm Rainchen233
-### 你好，我是雨辰
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MantraChen)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cto@kinepara.ai)
 
-## I am a Java, C++, C#, Rust, Python and SQL developer
+## I am a Java, C++, C#, Rust, Python, Go and SQL developer
 
 - 🔭 I'm a developer of anti-cheat for many Minecraft Servers
 

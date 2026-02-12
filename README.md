@@ -13,13 +13,21 @@ My work bridges the gap between **theoretical algorithms** and **production-grad
 * **Adversarial Engineering**: Kernel-level behavioral analysis, heuristic detection models, and obfuscation techniques against reverse engineering.
 * **Computational Perception**: Implementing real-time 3D reconstruction pipelines and sensor fusion algorithms on heterogenous hardware (RISC-V/ARM).
 
-### $\mathcal{2}$ / Professional Experience
+### $\mathcal{0}$ / Research & Engineering Focus
 
-**Kinepara** | *CTO & Lead Architect*
-Defining the technical roadmap for next-generation visual motion capture systems.
-> * "Building the nervous system for digital avatars."
-> * Architecting a low-latency IPC framework for high-fidelity sensor data transmission.
-> * Leading the R&D of proprietary computer vision algorithms (SLAM/VIO).
+My research interests lie in **deterministic execution** within stochastic environments, bridging the gap between theoretical correctness and bare-metal performance.
+
+* **Systems Architecture**: $\text{Rust} \enspace \cap \enspace \text{C++20}$.
+    * Specializing in **zero-cost abstractions**, **lock-free concurrency**, and **memory safety proofs**.
+    * Focusing on **ABI stability** and efficient **IPC mechanisms** in distributed architectures.
+
+* **Adversarial Engineering**:
+    * Analyzing **kernel-level introspection** and **runtime integrity verification**.
+    * Designing **obfuscation heuristics** and countermeasures against **DMA-based attacks** and reverse engineering.
+
+* **Computational Perception**:
+    * Optimizing **SLAM** and **VIO** pipelines for **heterogeneous computing platforms** (RISC-V/ARM).
+    * Leveraging **SIMD/AVX** intrinsics for instruction-level parallelism and ensuring **cache coherency** in real-time signal processing.
 
 ### $\mathcal{3}$ / Algorithmic Excellence
 

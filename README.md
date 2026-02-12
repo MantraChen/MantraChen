@@ -1,42 +1,56 @@
-## Hi there 👋 I'm Rainchen233
+# HowieSun
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MantraChen)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cto@kinepara.ai)
+**Chief Technology Officer @ Kinepara | Systems Researcher**
+*Focusing on High-Performance Computing, Computer Vision, and Kernel Security.*
 
-## I am a Java, C++, C#, Rust, Python, Go and SQL developer
+---
 
-- 🔭 I'm a developer of anti-cheat for many Minecraft Servers
+### $\mathcal{1}$ / Research & Engineering Focus
 
-- 🌱 I’m currently learning more knowledge about the language I have learned
+My work bridges the gap between **theoretical algorithms** and **production-grade infrastructure**. I specialize in designing deterministic systems within non-deterministic environments, prioritizing memory safety and instruction-level parallelism.
 
-- 🤔 I'm not a very good communicator, I'm very intimidated, but when I meet someone who's like-minded, I'm very vocal.
+* **Systems Architecture**: $\text{Rust} \times \text{C++20}$. Expertise in zero-cost abstractions, lock-free concurrency, and SIMD/AVX optimization.
+* **Adversarial Engineering**: Kernel-level behavioral analysis, heuristic detection models, and obfuscation techniques against reverse engineering.
+* **Computational Perception**: Implementing real-time 3D reconstruction pipelines and sensor fusion algorithms on heterogenous hardware (RISC-V/ARM).
 
-- ❤  I'm developing a product for Kinepara.
+### $\mathcal{2}$ / Professional Experience
 
-### 💬 Let's Connect 💬:
-- 📪 Drop me an email at CTO@Kinepara.ai & Howie@Kinepara.ai
-- Bilibili: [不知名CSPhD](https://space.bilibili.com/516196372)
+**Kinepara** | *CTO & Lead Architect*
+Defining the technical roadmap for next-generation visual motion capture systems.
+> * "Building the nervous system for digital avatars."
+> * Architecting a low-latency IPC framework for high-fidelity sensor data transmission.
+> * Leading the R&D of proprietary computer vision algorithms (SLAM/VIO).
 
-### ✅ Verified Awards ✅
-```markdown
+### $\mathcal{3}$ / Algorithmic Excellence
 
-- October-November 2015:        NOIP Popular Group (First Attempt)
+*Background in competitive programming with a focus on Graph Theory, Computational Geometry, and Dynamic Programming.*
 
-- November 2016:                NOIP Popular Group First Prize
+| **Competition Level** | **Distinction** | **Domain** |
+| :--- | :--- | :--- |
+| **National (NOI)** | **Medalist** (Top Tier) | Advanced Data Structures & Algorithms |
+| **Collegiate (ICPC/CCPC)** | **Regional Medalist** | Combinatorics & Optimization |
+| **Provincial** | **Multiple First Prizes** | Heuristic Search & Number Theory |
 
-- November 2017:                NOIP Advanced Group Provincial Second Prize
+### $\mathcal{4}$ / Engineering Philosophy
 
-- September-November 2018:      NOIP Provincial First Prize
+I advocate for code correctness through type systems and formal reasoning rather than extensive runtime checks.
 
-- July 2020:                    NOI (National Finals) Bronze Medal
-
-- September-December 2021:      ICPC Regional Competition Bronze Medal
-
-- April 2022:                   Blue Bridge Cup National First Prize
-
-- April 2023:                   CCPC Silver Medal
-
-- Note: Awards below Bronze Medal are not recorded.
+```rust
+// "Reliability is not an accident."
+fn architecture() -> Result<System, Entropy> {
+    match design {
+        Design::FirstPrinciples => Ok(Scalability),
+        Design::AdHoc => Err(TechnicalDebt),
+    }
+}
 ```
-### 🧑‍🤝‍🧑 自2015/5/11以来的访客数 🧑‍🤝‍🧑
-<a href="https://info.flagcounter.com/mWjN"><img src="https://s11.flagcounter.com/mini/mWjN/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
+### $\mathcal{5}$ / Connect
+
+Open to deep technical discourse regarding **systems programming**, **security research**, and **embedded vision**.
+
+* **PGP / Email:** `CTO@Kinepara.ai`
+* **GitHub:** `github.com/MantraChen`
+
+---
+
+*“Talk is cheap. Show me the code.”* — Linus Torvalds

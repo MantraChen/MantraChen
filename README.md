@@ -13,7 +13,7 @@ My work bridges the gap between **theoretical algorithms** and **production-grad
 * **Adversarial Engineering**: Kernel-level behavioral analysis, heuristic detection models, and obfuscation techniques against reverse engineering.
 * **Computational Perception**: Implementing real-time 3D reconstruction pipelines and sensor fusion algorithms on heterogenous hardware (RISC-V/ARM).
 
-### $\mathcal{0}$ / Research & Engineering Focus
+### $\mathcal{2}$ / Research & Engineering Focus
 
 My research interests lie in **deterministic execution** within stochastic environments, bridging the gap between theoretical correctness and bare-metal performance.
 

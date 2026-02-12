@@ -15,19 +15,22 @@ My work bridges the gap between **theoretical algorithms** and **production-grad
 
 ### $\mathcal{2}$ / Research & Engineering Focus
 
-My research interests lie in **deterministic execution** within stochastic environments, bridging the gap between theoretical correctness and bare-metal performance.
+I perceive systems engineering as the rigorous application of advanced data structures to manage **complexity** and **concurrency**. My research focuses on designing cache-oblivious algorithms and specialized memory layouts.
 
-* **Systems Architecture**: $\text{Rust} \times \text{C++20}$.
-    * Specializing in **zero-cost abstractions**, **lock-free concurrency**, and **memory safety proofs**.
-    * Focusing on **ABI stability** and efficient **IPC mechanisms** in distributed architectures.
+* **Concurrent Data Structures**:
+    * Implementing **Wait-free** and **Lock-free** synchronization primitives (e.g., Ring Buffers, Skip Lists) using atomic memory ordering.
+    * Mitigating **ABA problems** and optimizing for **False Sharing** in multi-core environments.
 
-* **Adversarial Engineering**:
-    * Analyzing **kernel-level introspection** and **runtime integrity verification**.
-    * Designing **obfuscation heuristics** and countermeasures against **DMA-based attacks** and reverse engineering.
+* **Spatial & Geometric Indexing** *(Relevant to Computer Vision/MoCap)*:
+    * Accelerating ray-tracing and collision detection via **BVH (Bounding Volume Hierarchies)** and **KD-Trees**.
+    * Optimizing spatial hashing for sparse volume data in $\mathbb{R}^3$ space.
 
-* **Computational Perception**:
-    * Optimizing **SLAM** and **VIO** pipelines for **heterogeneous computing platforms** (RISC-V/ARM).
-    * Leveraging **SIMD/AVX** intrinsics for instruction-level parallelism and ensuring **cache coherency** in real-time signal processing.
+* **Succinct & Probabilistic Structures** *(Relevant to Security/Anti-Cheat)*:
+    * Leveraging **Bloom Filters** and **Count-Min Sketches** for high-throughput, memory-constrained stream processing.
+    * Designing **Intrusive Containers** to minimize memory fragmentation and pointer chasing.
+
+* **Asymptotic Optimization**:
+    * Reducing amortized time complexity from $\mathcal{O}(n \log n)$ to $\mathcal{O}(n)$ through radix-based approaches and data locality optimizations.
 
 ### $\mathcal{3}$ / Algorithmic Excellence
 

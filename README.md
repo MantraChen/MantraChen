@@ -1,7 +1,7 @@
 # HowieSun
 
 **Chief Technology Officer @ Kinepara | Systems Researcher**
-*Focusing on High-Performance Computing, Computer Vision, and Kernel Security.*
+*Focusing on High-Performance Computing and Kernel Security.*
 
 ---
 
@@ -17,7 +17,7 @@ My work bridges the gap between **theoretical algorithms** and **production-grad
 
 My research interests lie in **deterministic execution** within stochastic environments, bridging the gap between theoretical correctness and bare-metal performance.
 
-* **Systems Architecture**: $\text{Rust} \enspace \cap \enspace \text{C++20}$.
+* **Systems Architecture**: $\text{Rust} \times \text{C++20}$.
     * Specializing in **zero-cost abstractions**, **lock-free concurrency**, and **memory safety proofs**.
     * Focusing on **ABI stability** and efficient **IPC mechanisms** in distributed architectures.
 

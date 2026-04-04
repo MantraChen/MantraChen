@@ -27,7 +27,7 @@
 
 <br>
 
-### ⚙️ Concurrent & Cache-Conscious Data Structures
+###  Concurrent & Cache-Conscious Data Structures
 
 - Implementing **wait-free** and **lock-free** primitives (Ring Buffers, Skip Lists, Hazard Pointers) under strict atomic memory ordering
 - Mitigating **ABA problems**, eliminating **false sharing**, and optimizing working-set locality via van Emde Boas layouts and CSR compression
@@ -35,7 +35,7 @@
 
 <br>
 
-### 🔒 Kernel Security & Low-Level Exploitation
+###  Kernel Security & Low-Level Exploitation
 
 - Researching privilege escalation vectors: **TOCTOU races**, **use-after-free** in kernel object lifecycles, and improper **capability / namespace isolation**
 - Hardening kernel subsystems via **seccomp-BPF** policy design, **LSM hook** instrumentation, and mitigating **speculative execution** side-channels (Spectre/Meltdown variants)
@@ -43,7 +43,7 @@
 
 <br>
 
-### 🛡️ Anti-Cheat & Adversarial Systems
+###  Anti-Cheat & Adversarial Systems
 
 - Designing kernel-mode integrity monitors leveraging **PatchGuard**-equivalent callback chains and **SSDT hook** detection
 - Applying **Bloom Filters** and **Count-Min Sketches** for high-throughput behavioral stream analysis under strict latency budgets
@@ -52,7 +52,7 @@
 
 <br>
 
-### 📐 Graph & Combinatorial Algorithms
+###  Graph & Combinatorial Algorithms
 
 - Optimizing flow, matching, and shortest-path algorithms for latency-critical detection pipelines
 - Applying **DP over DAGs** and number-theoretic primitives to integrity verification and signature schemes
@@ -63,9 +63,9 @@
 
 | Competition | Distinction | Domain |
 |:---|:---|:---|
-| **National (NOI)** | 🥇 Medalist (Top Tier) | Advanced Data Structures & Algorithms |
-| **Collegiate (ICPC/CCPC)** | 🥈 Regional Medalist | Combinatorics & Optimization |
-| **Provincial** | 🏆 Multiple First Prizes | Heuristic Search & Number Theory |
+| **National (NOI)** |  Medalist (Top Tier) | Advanced Data Structures & Algorithms |
+| **Collegiate (ICPC/CCPC)** |  Regional Medalist | Combinatorics & Optimization |
+| **Provincial** |  Multiple First Prizes | Heuristic Search & Number Theory |
 
 ---
 

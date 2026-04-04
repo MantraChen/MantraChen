@@ -1,59 +1,102 @@
-# HowieSun
+<div align="center">
 
-**Chief Technology Officer @ Kinepara | Systems Researcher**
-*Focusing on High-Performance Computing and Kernel Security.*
+```
+██╗  ██╗ ██████╗ ██╗    ██╗██╗███████╗    ███████╗██╗   ██╗███╗   ██╗
+██║  ██║██╔═══██╗██║    ██║██║██╔════╝    ██╔════╝██║   ██║████╗  ██║
+███████║██║   ██║██║ █╗ ██║██║█████╗      ███████╗██║   ██║██╔██╗ ██║
+██╔══██║██║   ██║██║███╗██║██║██╔══╝      ╚════██║██║   ██║██║╚██╗██║
+██║  ██║╚██████╔╝╚███╔███╔╝██║███████╗    ███████║╚██████╔╝██║ ╚████║
+╚═╝  ╚═╝ ╚═════╝  ╚══╝╚══╝ ╚═╝╚══════╝   ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
+```
+
+**Chief Technology Officer @ Kinepara**
+
+*Kernel Security · Adversarial Systems · Algorithmic Engineering*
+
+[![Email](https://img.shields.io/badge/CTO%40Kinepara.ai-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:CTO@Kinepara.ai)
+[![GitHub](https://img.shields.io/badge/MantraChen-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MantraChen)
+![Profile Views](https://komarev.com/ghpvc/?username=MantraChen&style=flat-square&color=red)
+
+</div>
 
 ---
 
-### $\mathcal{1}$ / Research & Engineering Focus
+## Research & Engineering Focus
 
-I perceive systems engineering as the rigorous application of advanced data structures to manage **complexity** and **concurrency**. My research focuses on designing cache-oblivious algorithms and specialized memory layouts.
+> I approach systems engineering as the disciplined intersection of **algorithmic rigor**, **kernel-level security**, and **adversarial resilience** — where correctness is a prerequisite, not an afterthought.
 
-* **Concurrent Data Structures**:
-    * Implementing **Wait-free** and **Lock-free** synchronization primitives (e.g., Ring Buffers, Skip Lists) using atomic memory ordering.
-    * Mitigating **ABA problems** and optimizing for **False Sharing** in multi-core environments.
+<br>
 
-* **Spatial & Geometric Indexing** *(Relevant to Computer Vision/MoCap)*:
-    * Accelerating ray-tracing and collision detection via **BVH (Bounding Volume Hierarchies)** and **KD-Trees**.
-    * Optimizing spatial hashing for sparse volume data in $\mathbb{R}^3$ space.
+### ⚙️ Concurrent & Cache-Conscious Data Structures
 
-* **Succinct & Probabilistic Structures** *(Relevant to Security/Anti-Cheat)*:
-    * Leveraging **Bloom Filters** and **Count-Min Sketches** for high-throughput, memory-constrained stream processing.
-    * Designing **Intrusive Containers** to minimize memory fragmentation and pointer chasing.
+- Implementing **wait-free** and **lock-free** primitives (Ring Buffers, Skip Lists, Hazard Pointers) under strict atomic memory ordering
+- Mitigating **ABA problems**, eliminating **false sharing**, and optimizing working-set locality via van Emde Boas layouts and CSR compression
+- Reducing amortized complexity from $\mathcal{O}(n \log n)$ to $\mathcal{O}(n)$ through radix-based decomposition and cache-oblivious traversal strategies
 
-* **Asymptotic Optimization**:
-    * Reducing amortized time complexity from $\mathcal{O}(n \log n)$ to $\mathcal{O}(n)$ through radix-based approaches and data locality optimizations.
+<br>
 
-### $\mathcal{2}$ / Algorithmic Excellence
+### 🔒 Kernel Security & Low-Level Exploitation
 
-*Background in competitive programming with a focus on Graph Theory, Computational Geometry, and Dynamic Programming.*
+- Researching privilege escalation vectors: **TOCTOU races**, **use-after-free** in kernel object lifecycles, and improper **capability / namespace isolation**
+- Hardening kernel subsystems via **seccomp-BPF** policy design, **LSM hook** instrumentation, and mitigating **speculative execution** side-channels (Spectre/Meltdown variants)
+- Analyzing **syscall interception** and **DKOM (Direct Kernel Object Manipulation)** as both attack surfaces and detection primitives
 
-| **Competition Level** | **Distinction** | **Domain** |
-| :--- | :--- | :--- |
-| **National (NOI)** | **Medalist** (Top Tier) | Advanced Data Structures & Algorithms |
-| **Collegiate (ICPC/CCPC)** | **Regional Medalist** | Combinatorics & Optimization |
-| **Provincial** | **Multiple First Prizes** | Heuristic Search & Number Theory |
+<br>
 
-### $\mathcal{3}$ / Engineering Philosophy
+### 🛡️ Anti-Cheat & Adversarial Systems
 
-I advocate for code correctness through type systems and formal reasoning rather than extensive runtime checks.
+- Designing kernel-mode integrity monitors leveraging **PatchGuard**-equivalent callback chains and **SSDT hook** detection
+- Applying **Bloom Filters** and **Count-Min Sketches** for high-throughput behavioral stream analysis under strict latency budgets
+- Modeling cheat detection as an adversarial classification problem — balancing **false positive rate** against evasion resistance under a game-theoretic threat model $\mathcal{G} = \langle \mathcal{A}, \mathcal{D}, \mathcal{U} \rangle$
+- Leveraging **hypervisor-assisted introspection** (VMI) for tamper-evident memory scanning beneath the OS trust boundary
+
+<br>
+
+### 📐 Graph & Combinatorial Algorithms
+
+- Optimizing flow, matching, and shortest-path algorithms for latency-critical detection pipelines
+- Applying **DP over DAGs** and number-theoretic primitives to integrity verification and signature schemes
+
+---
+
+## Competitive Programming
+
+| Competition | Distinction | Domain |
+|:---|:---|:---|
+| **National (NOI)** | 🥇 Medalist (Top Tier) | Advanced Data Structures & Algorithms |
+| **Collegiate (ICPC/CCPC)** | 🥈 Regional Medalist | Combinatorics & Optimization |
+| **Provincial** | 🏆 Multiple First Prizes | Heuristic Search & Number Theory |
+
+---
+
+## Engineering Philosophy
+
+> *Reliability is not an accident.*
 
 ```rust
-// "Reliability is not an accident."
 fn architecture() -> Result<System, Entropy> {
     match design {
         Design::FirstPrinciples => Ok(Scalability),
-        Design::AdHoc => Err(TechnicalDebt),
+        Design::AdHoc          => Err(TechnicalDebt),
     }
 }
 ```
-### $\mathcal{4}$ / Connect
 
-Open to deep technical discourse regarding **systems programming**, **security research**, and **embedded vision**.
-
-* **PGP / Email:** `CTO@Kinepara.ai`
-* **GitHub:** `github.com/MantraChen`
+Type systems and formal reasoning over runtime checks. Correctness by construction.
 
 ---
 
-*“Talk is cheap. Show me the code.”* — Linus Torvalds
+## Open To
+
+```
+Deep technical discourse on:
+  ├── Systems Programming
+  ├── Kernel Security Research
+  └── Adversarial / Anti-Cheat Engineering
+```
+
+<div align="center">
+
+*"Talk is cheap. Show me the code."* — Linus Torvalds
+
+</div>

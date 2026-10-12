@@ -7,7 +7,7 @@
 *Systems Programming · Kernel Security · Algorithms*
 
 [![GitHub](https://img.shields.io/badge/MantraChen-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MantraChen)
-[![Email](https://img.shields.io/badge/CTO%40Kinepara.ai-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:Mantra126zhe@Gmail.com)
+[![Email](https://img.shields.io/badge/Mantra126zhe%40Gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:Mantra126zhe@Gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=MantraChen&style=flat-square&color=red)
 
 </div>
